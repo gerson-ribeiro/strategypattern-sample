@@ -1,0 +1,12 @@
+C:\Source\StrategyPattern.Sample\StrategyPattern.Sample.Domain\bin\Debug\net5.0\StrategyPattern.Sample.Products.Domain.deps.json
+C:\Source\StrategyPattern.Sample\StrategyPattern.Sample.Domain\bin\Debug\net5.0\StrategyPattern.Sample.Products.Domain.dll
+C:\Source\StrategyPattern.Sample\StrategyPattern.Sample.Domain\bin\Debug\net5.0\ref\StrategyPattern.Sample.Products.Domain.dll
+C:\Source\StrategyPattern.Sample\StrategyPattern.Sample.Domain\bin\Debug\net5.0\StrategyPattern.Sample.Products.Domain.pdb
+C:\Source\StrategyPattern.Sample\StrategyPattern.Sample.Domain\obj\Debug\net5.0\StrategyPattern.Sample.Products.Domain.csproj.AssemblyReference.cache
+C:\Source\StrategyPattern.Sample\StrategyPattern.Sample.Domain\obj\Debug\net5.0\StrategyPattern.Sample.Products.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\StrategyPattern.Sample\StrategyPattern.Sample.Domain\obj\Debug\net5.0\StrategyPattern.Sample.Products.Domain.AssemblyInfoInputs.cache
+C:\Source\StrategyPattern.Sample\StrategyPattern.Sample.Domain\obj\Debug\net5.0\StrategyPattern.Sample.Products.Domain.AssemblyInfo.cs
+C:\Source\StrategyPattern.Sample\StrategyPattern.Sample.Domain\obj\Debug\net5.0\StrategyPattern.Sample.Products.Domain.csproj.CoreCompileInputs.cache
+C:\Source\StrategyPattern.Sample\StrategyPattern.Sample.Domain\obj\Debug\net5.0\StrategyPattern.Sample.Products.Domain.dll
+C:\Source\StrategyPattern.Sample\StrategyPattern.Sample.Domain\obj\Debug\net5.0\ref\StrategyPattern.Sample.Products.Domain.dll
+C:\Source\StrategyPattern.Sample\StrategyPattern.Sample.Domain\obj\Debug\net5.0\StrategyPattern.Sample.Products.Domain.pdb

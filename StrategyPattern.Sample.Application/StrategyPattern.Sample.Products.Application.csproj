@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\StrategyPattern.Sample.Domain\StrategyPattern.Sample.Products.Domain.csproj" />
+    <ProjectReference Include="..\StrategyPattern.Sample.Persistence\StrategyPattern.Sample.Products.Persistence.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,17 @@
+C:\Source\StrategyPattern.Sample\StrategyPattern.Sample.Application\obj\Debug\net5.0\StrategyPattern.Sample.Products.Application.csproj.AssemblyReference.cache
+C:\Source\StrategyPattern.Sample\StrategyPattern.Sample.Application\obj\Debug\net5.0\StrategyPattern.Sample.Products.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\StrategyPattern.Sample\StrategyPattern.Sample.Application\obj\Debug\net5.0\StrategyPattern.Sample.Products.Application.AssemblyInfoInputs.cache
+C:\Source\StrategyPattern.Sample\StrategyPattern.Sample.Application\obj\Debug\net5.0\StrategyPattern.Sample.Products.Application.AssemblyInfo.cs
+C:\Source\StrategyPattern.Sample\StrategyPattern.Sample.Application\obj\Debug\net5.0\StrategyPattern.Sample.Products.Application.csproj.CoreCompileInputs.cache
+C:\Source\StrategyPattern.Sample\StrategyPattern.Sample.Application\bin\Debug\net5.0\StrategyPattern.Sample.Products.Application.deps.json
+C:\Source\StrategyPattern.Sample\StrategyPattern.Sample.Application\bin\Debug\net5.0\StrategyPattern.Sample.Products.Application.dll
+C:\Source\StrategyPattern.Sample\StrategyPattern.Sample.Application\bin\Debug\net5.0\ref\StrategyPattern.Sample.Products.Application.dll
+C:\Source\StrategyPattern.Sample\StrategyPattern.Sample.Application\bin\Debug\net5.0\StrategyPattern.Sample.Products.Application.pdb
+C:\Source\StrategyPattern.Sample\StrategyPattern.Sample.Application\bin\Debug\net5.0\StrategyPattern.Sample.Products.Domain.dll
+C:\Source\StrategyPattern.Sample\StrategyPattern.Sample.Application\bin\Debug\net5.0\StrategyPattern.Sample.Products.Persistence.dll
+C:\Source\StrategyPattern.Sample\StrategyPattern.Sample.Application\bin\Debug\net5.0\StrategyPattern.Sample.Products.Domain.pdb
+C:\Source\StrategyPattern.Sample\StrategyPattern.Sample.Application\bin\Debug\net5.0\StrategyPattern.Sample.Products.Persistence.pdb
+C:\Source\StrategyPattern.Sample\StrategyPattern.Sample.Application\obj\Debug\net5.0\StrategyPattern.Sample.Products.Application.csproj.CopyComplete
+C:\Source\StrategyPattern.Sample\StrategyPattern.Sample.Application\obj\Debug\net5.0\StrategyPattern.Sample.Products.Application.dll
+C:\Source\StrategyPattern.Sample\StrategyPattern.Sample.Application\obj\Debug\net5.0\ref\StrategyPattern.Sample.Products.Application.dll
+C:\Source\StrategyPattern.Sample\StrategyPattern.Sample.Application\obj\Debug\net5.0\StrategyPattern.Sample.Products.Application.pdb
